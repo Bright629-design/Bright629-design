@@ -84,6 +84,24 @@
   <a href="mailto:cheruiyotemilio@gmail.com">Email</a> •
   <a href="https://EmilioBright.com">Portfolio</a>
 </p>
+## 🛠️ My Tech Stack Icons
+
+[![Skill Icons](https://github-readme-stats.vercel.app/api/pin/?username=Bright629-design&repo=skill-icons&theme=tokyonight)](https://github.com/Bright629-design/skill-icons)
+
+A curated collection of modern developer skill icons for:
+- GitHub profiles
+- Portfolios
+- Personal websites
+- README branding
+
+### ⚡ Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bright629-design/skill-icons/main/icons/github.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/Bright629-design/skill-icons/main/icons/python.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/Bright629-design/skill-icons/main/icons/javascript.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/Bright629-design/skill-icons/main/icons/react.svg" width="48"/>
+</p>
 
 ---
 
