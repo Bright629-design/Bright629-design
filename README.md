@@ -1,5 +1,5 @@
 ## 🛠️ Skills & Tools
-<h1 align="center">Hi 👋, I'm Emilio Kipchirchir Cheruiyot</h1>
+<h1 align="center">Hi, I'm Emilio Kipchirchir Cheruiyot</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | Automation Enthusiast</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Software Engineering student & backend-focused developer  
+- 🎓 Software Engineering, Web Dev. , AI, Robotics, ML & backend-focused developer  
 - 💻 Passionate about **scalable systems, APIs, and automation**
 - 🌍 Based in Kenya  
 - 📊 Interested in **governance tech, AI tools, and system design**
@@ -52,8 +52,9 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bright629-design&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bright629-design&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -63,10 +64,13 @@
 ---
 
 ## 📈 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright629-design&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright629-design&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
+
+Bright629-design / README.md
 
 ---
 
