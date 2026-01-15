@@ -53,19 +53,20 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bright629-design&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Bright629-design&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright629-design&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
@@ -81,6 +82,4 @@
 ## ✨ Fun Fact
 > I automate repetitive tasks so I can focus on building impactful software 🚀
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git,github,linux" />
-</p>
+
