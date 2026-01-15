@@ -19,7 +19,8 @@
 
 ## 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,react,nextjs,nodejs,express,django,mysql,postgres,mongodb,git,github,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,react,nextjs,
+    nodejs,express,django,mysql,postgres,mongodb,git,github,linux,aws" />
 </p>
 
 ---
@@ -52,10 +53,22 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bright629-design&show_icons=true&theme=tokyonight)
 
-## 🧮 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bright629-design&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bright629-design&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bright629-design&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright629-design&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 
 
