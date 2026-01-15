@@ -51,7 +51,12 @@
 - Debt visualization dashboards
 
 ---
-
+## 🔍 Technical Interests
+- Backend engineering
+- Distributed & scalable systems
+- Automation & developer tooling
+- AI-assisted software development
+- GovTech & transparency solutions
 ## 📊 GitHub Stats
 
 <p align="center">
