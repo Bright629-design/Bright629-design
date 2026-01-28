@@ -41,12 +41,12 @@
 - REST APIs and database design
 - GitHub: *alx-airbnb-project-documentation*
 
-### 🔹 Messaging App (Django + DRF)
+## 🔹 Messaging App (Django + DRF)
 - User-to-user real-time messaging
 - REST APIs with authentication
 - Clean backend architecture
 
-### 🔹 Budget Transparency Platform (Concept)
+## 🔹 Budget Transparency Platform (Concept)
 - Real-time public budget tracking
 - AI-based fiscal monitoring
 - Debt visualization dashboards
