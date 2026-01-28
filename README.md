@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi, I'm Emilio Kipchirchir Cheruiyot</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Automation Enthusiast</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Automation Enthusiast | AI & Robotics </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Developer;Backend+Specialist;Automation+Enthusiast&center=true&width=600" />
@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 - 🎓 Software Engineering, Web Dev. , AI, Robotics, ML & backend-focused developer  
 - 💻 Passionate about **scalable systems, APIs, and automation**
-- 🌍 Based in Kenya  
+- 🌍 Based in Nairobi, Kenya.  
 - 📊 Interested in **governance tech, AI tools, and system design**
 - 🧠 Strong foundation in **Operating Systems & Databases**
 
