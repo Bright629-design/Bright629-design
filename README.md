@@ -21,7 +21,7 @@
 
 ## 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,react,nextjs,nodejs,express,django,mysql,postgres,mongodb,git,github,linux,aws,alx" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,react,nextjs,nodejs,express,django,mysql,postgres,mongodb,git,github,linux,aws,alx" />
 </p>
 
 ---
@@ -76,8 +76,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright629-design&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
-
-
 ---
 
 ## 🌐 Connect With Me
@@ -104,7 +102,6 @@ A curated collection of modern developer skill icons for:
   <img src="https://raw.githubusercontent.com/Bright629-design/skill-icons/main/icons/javascript.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/Bright629-design/skill-icons/main/icons/react.svg" width="48"/>
 </p>
-
 
 
 ## ✨ Fun Fact
