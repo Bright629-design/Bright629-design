@@ -1,4 +1,4 @@
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Tools.
 
 
 <h1 align="center">Hi, I'm Emilio Kipchirchir Cheruiyot </h1>
@@ -102,7 +102,6 @@ A curated collection of modern developer skill icons for:
   <img src="https://raw.githubusercontent.com/Bright629-design/skill-icons/main/icons/javascript.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/Bright629-design/skill-icons/main/icons/react.svg" width="48"/>
 </p>
-
 
 ## ✨ Fun Fact
 > I automate repetitive tasks so I can focus on building impactful software 🚀
