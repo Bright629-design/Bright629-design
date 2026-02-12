@@ -5,11 +5,11 @@
 <h3 align="center">Software Engineer | Full-Stack Developer | Automation Enthusiast | AI & Robotics </h3>
 
 <p align="center">
+  
   <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Developer;Backend+Specialist;Automation+Enthusiast&center=true&width=600" />
 </p>
 
 ---
-
 ## 🧑‍💻 About Me
 - 🎓 Software Engineering, Web Dev. , AI, Robotics, ML & backend-focused developer  
 - 💻 Passionate about **scalable systems, APIs, and automation**
