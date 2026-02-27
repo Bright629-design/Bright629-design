@@ -1,6 +1,7 @@
 ## 🛠️ Skills & Tools.
 
 <h1 align="center">Hi, I'm Emilio Kipchirchir Cheruiyot </h1>
+
 <h3 align="center">Software Engineer | Full-Stack Developer | Automation Enthusiast | AI & Robotics </h3>
 
 <p align="center">
@@ -57,8 +58,8 @@
 - Automation & developer tooling
 - AI-assisted software development
 - GovTech & transparency solutions
+  
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bright629-design&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
