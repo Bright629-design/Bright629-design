@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Emilio  Cheruiyot </h1>
 
-<h3 align="center">Software Engineer | Full-Stack Developer | Automation Enthusiast | AI & Robotics </h3>
+<h3 align="center">Software Engineer | Backend Developer | Automation Enthusiast | AI & Robotics </h3>
 
 <p align="center">
   
