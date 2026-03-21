@@ -1,7 +1,7 @@
 ## 🛠️ Skills & Tools.
 
 
-<h1 align="center">Hi, I'm Emilio  Cheruiyot </h1>
+<h1 align="center"> I'm Emilio  Cheruiyot </h1>
 
 <h3 align="center">Software Engineer | Backend Dev | Automation Enthusiast | ML | AI & Robotics </h3>
 
