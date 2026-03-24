@@ -61,6 +61,7 @@
 - AI-assisted software development
 - GovTech & transparency solutions
   
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bright629-design&show_icons=true&theme=tokyonight&cache_seconds=1800" />
