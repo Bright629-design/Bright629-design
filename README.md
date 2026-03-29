@@ -3,7 +3,7 @@
 
 <h1 align="center"> I'm Emilio  Cheruiyot </h1>
 
-<h3 align="center">Software Engineer | Backend Dev | Automation Enthusiast | ML | AI & Robotics </h3>
+<h3 align="center">Software Engineer | Backend Dev | Automation Enthusiast | Cyber security| ML | AI & Robotics </h3>
 
 <p align="center">
   
