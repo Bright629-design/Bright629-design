@@ -1,6 +1,5 @@
 ## 🛠️ Skills & Tools.
 
-
 <h1 align="center"> I'm Emilio  Cheruiyot </h1>
 
 <h3 align="center">Software Engineer | Backend Dev | Automation Enthusiast | Cyber Security | ML | AI & Robotics </h3>
