@@ -11,11 +11,15 @@
 
 ---
 ## 🧑‍💻 About Me
-- 🎓 Software Engineering, Web Dev. , AI, Robotics, ML & backend-focused developer  
-- 💻 Passionate about **scalable systems, APIs, and automation**
-- 🌍 Based in Nairobi, Kenya.  
+- 🎓 A Bachelors Degree in Software Engineering at Multimedia University of Kenya.
+- 💻 Full-stack developer working with Python, Django, JavaScript, SQL, Firebase, C, and C++
+- 💻 Deep interest in Operating Systems, Linux internals, and system optimization - including coursework in OS scheduling, semaphores, and distributed systems
+- 💻 Passionate about Cybersecurity, AI, Robotics, ML & backend-focused developer.  
+- 💻 Working on **scalable systems, APIs, and automation**
+- 💻 Solid GitHub workflows and developer tooling habits  
 - 📊 Interested in **governance tech, AI tools, and system design**
 - 🧠 Strong foundation in **Operating Systems & Databases**
+- 🌍 Based in Nairobi, Kenya.
 
 --
 
@@ -27,6 +31,13 @@
 
 
 --
+## 📌 Featured Projects
+### 🔹 Airbnb Clone (Backend Documentation)
+- ER diagrams, DFDs, Use Case diagrams
+- REST APIs and database design
+- GitHub: *alx-airbnb-project-documentation*
+
+  
 
 ## ⚙️ Backend & System Knowledge
 - RESTful API design (Django REST, Express)
@@ -38,11 +49,6 @@
 --
 
 
-## 📌 Featured Projects
-### 🔹 Airbnb Clone (Backend Documentation)
-- ER diagrams, DFDs, Use Case diagrams
-- REST APIs and database design
-- GitHub: *alx-airbnb-project-documentation*
 
 ## 🔹 Messaging App (Django + DRF)
 - User-to-user real-time messaging
