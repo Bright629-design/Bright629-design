@@ -1,4 +1,4 @@
-## 🛠️ Skills & Tools.
+## Skills & Tools.
 
 <h1 align="center"> I'm Emilio  Cheruiyot </h1>
 
