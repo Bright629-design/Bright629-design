@@ -21,8 +21,6 @@
 - Strong foundation in **Operating Systems & Databases**
 - Based in Nairobi, Kenya.
 
---
-
 ## 🛠️ Skills & Tools
 <p align="center">
    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,react,nextjs,nodejs,express,django,mysql,postgres,mongodb,git,github,linux,aws,alx" />
