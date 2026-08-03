@@ -25,12 +25,11 @@
 <p align="center">
    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,react,nextjs,nodejs,express,django,mysql,postgres,mongodb,git,github,linux,aws,alx" />
 </p>
-
 --
 ##  Featured Projects
   [Weriton Enterprises Hardware](https://weriton-enterprises-hardware.vercel.app/) — Business website for a hardware enterprise featuring product listings, company     profile, and a clean responsive UI built with React and       deployed on Vercel
  
-  [SOIT Sugar Company](https://soit-sugar-company.vercel.app/) — Company website for a sugar business showcasing products, services, and company information with a modern, user-friendly layout deployed on Vercel
+  [SOIT Sugar Company](https://soit-sugar-company.vercel.app/) — Company website for a sugar business showcasing products, services, and company information with a modern, user-friendly.
 
 ###  Airbnb Clone (Backend Documentation)
 - ER diagrams, DFDs, Use Case diagrams
