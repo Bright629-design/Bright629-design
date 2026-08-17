@@ -45,12 +45,12 @@
 
 --
 
-##  Messaging App (Django + DRF)
+##  Messaging App
 - User-to-user real-time messaging
 - REST APIs with authentication
 - Clean backend architecture
 
-##  Budget Transparency Platform (Concept)
+##  Budget Transparency Platform 
 - Real-time public budget tracking
 - AI-based fiscal monitoring
 - Debt visualization dashboards
